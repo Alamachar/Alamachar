@@ -6,6 +6,5 @@
 
 * 👂 `My name is`: **Pablo**,
 * ⚡ `I'm`: **18 years old**,
-* ❤️ `I love`: **Caramel macchiato**  ,
 * 🔭 `I’m currently studing`: 1º ASIR
 
